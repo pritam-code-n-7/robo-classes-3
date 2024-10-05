@@ -1,0 +1,79 @@
+[
+  {
+    "id":16,
+    "label": "STEM Classes",
+    "src": "/assets/stemlab.webp ",
+    "course": "Inspire builder STEAM classes with kit",
+    "originalPrice": "INR 850",
+    "overridenPrice": " - INR 720",
+    "emi": " 4 Payments of INR 180 /Month ",
+    "age": "4-6 years",
+    "classes": "12 classes"
+  },
+  {
+    "id":17,
+    "label": "LEGO",
+    "src": "/assets/cube.webp",
+    "course": "Rubik's cube for beginners",
+    "originalPrice": "INR 480",
+    "overridenPrice": " - INR 400",
+    "emi": " INR 100 /Month *4 ",
+    "age": "7+ years",
+    "classes": "8 classes"
+  },
+  {
+    "id":18,
+    "label": "STEM Course",
+    "src": "/assets/math.webp",
+    "course": " Mental mathematics complete course",
+    "originalPrice": "INR 2,000",
+    "overridenPrice": " - INR 1,800",
+    "emi": " INR 450 /Month *4 ",
+    "age": "8+ years",
+    "classes": "40 classes"
+  },
+  {
+    "id":19,
+    "label": "STEM Course",
+    "src": "/assets/chess.webp",
+    "course": " Arduino Robotics Classes Beginner Course",
+    "originalPrice": "INR 600",
+    "overridenPrice": " - INR 500",
+    "emi": " INR 125 /Month *4 ",
+    "age": "7+ years",
+    "classes": "10 classes"
+  },
+  {
+    "id":20,
+    "label": "STEM Classes",
+    "src": "/assets/programming.png",
+    "course": " C++ programming class",
+    "originalPrice": "INR 850",
+    "overridenPrice": " - INR 720",
+    "emi": "  4 Payments of INR 180 /Month ",
+    "age": "4-6 years",
+    "classes": "12 classes"
+  },
+  {
+    "id":21,
+    "label": "LEGO",
+    "src": "/assets/canva.webp",
+    "course": " Canva classes for beginners",
+    "originalPrice": "INR 750",
+    "overridenPrice": " - INR 450",
+    "emi": " ",
+    "age": "8+ years",
+    "classes": "15 classes"
+  },
+  {
+    "id":22,
+    "label": "CODING COURSE",
+    "src": "/assets/html.webp",
+    "course": " HTML and CSS for beginners",
+    "originalPrice": "INR 750",
+    "overridenPrice": " - INR 600",
+    "emi": " ",
+    "age": "8+ years",
+    "classes": "15 classes"
+  }
+]

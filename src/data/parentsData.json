@@ -1,0 +1,44 @@
+[
+  {
+    "review": "The Robo classes Spike Prime sessions have been enlightening for Jaiden. What was simple curiosity has led to interesting coding experiments that is delightful to experience. Thanks to the teacher for his patience and the team in providing flexible and interesting sessions!",
+    "name": "- Jaiden’s Mom",
+    "alt":"rating-star",
+    "rating": "/assets/five-star.png",
+    "pic": "/assets/jaiden.avif"
+  },
+  {
+    "review": "Robo classes has triggered creativity in Ryan. The learning helps him to unlock new-age thinking and program new Robot prototypes that are awe-striking to us.The tutors are well versed in their subjects and are able to guide diligently. We thank you Robo Classes for getting Ryan to be future-ready.",
+    "name": "- Ryan’s Mom",
+    "alt":"rating-star",
+    "rating": "/assets/five-star.png",
+    "pic": "/assets/ryan.jpg"
+  },
+  {
+    "review": "My son is 8 years old, and he has been learning for the last several months, being part of various programs, Robotics, learning Rubik’s cube, and Scratch Programming. It has been a great experience. All the instructors have been very helpful, providing individual attention, and very responsive to doubts and queries. The management team, too, is very adaptive and helpful.",
+    "name": "- Dhruv’s Mom",
+    "alt":"rating-star",
+    "rating": "/assets/five-star.png",
+    "pic": "/assets/shruv.png"
+  },
+  {
+    "review": "In this day and age it was essential for Cyrus to be fostered into an institute that would provide him with both Knowledge and support. The teacher’s are well versed with the matter and have good tutoring skills and are very accommodative to our requests at all times. My kids have certainly increased their knowledge in Robotics / Rubik’s Cube / 3D animation and have the skills and mindset to venture into further programs. I would like to thank the team for all the support and have my faith in them to take my children through the years.",
+    "name": "- Cyrus’s Mom",
+    "alt":"rating-star",
+    "rating": "/assets/five-star.png",
+    "pic": "/assets/cyrus.png"
+  },
+  {
+    "review": "I have registered my 9 year old son into these robotics classes last year and my son feels excited about the different robot constructions using Lego blocks and also coding it to make it work and feels amazed looking at the outcome and enjoys a lot. He never want to miss the class as the teachers are friendly and patient to solve all your doubts. These classes has not only improved his thinking skills but also makes it interesting to explore and do construct many new robots.",
+    "name": "- Nikshith’s Mom",
+    "alt":"rating-star",
+    "rating": "/assets/five-star.png",
+    "pic": "/assets/nikshith.jpg"
+  },
+  {
+    "review": "The management is able to easily get connected and help parents to create a future scientists by offering niche courses such as coding, programming, and robotics. The teachers are very kind hearted, supportive and well educated.They bring up the full potential of students in highly efficient way and showcase their skills in the arena.",
+    "name": "- Sudaleeshwar's Mom",
+    "alt":"rating-star",
+    "rating": "/assets/five-star.png",
+    "pic": "/assets/sudar.jpg"
+  }
+]

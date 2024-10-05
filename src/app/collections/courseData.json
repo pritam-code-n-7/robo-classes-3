@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "course": "LEGO® SPIKE™ essential beginner with kit",
+    "overridenPrice": "INR 1,950",
+    "price": 1750,
+    "installment": "INR 437.5 /Month *4",
+    "age": "6 - 9 years",
+    "classes": "15",
+    "batchSize": " 1:1 Classes",
+    "instruction": "Live online class",
+    "src": [
+      { "src": "/assets/lego.webp" },
+      { "src": "/assets/edu.webp" },
+      { "src": "/assets/electronic.webp" },
+      { "src": "/assets/support.webp" },
+      { "src": "/assets/unique.webp" }
+    ],
+    "learn": [
+      {
+        "title": "TEAM based learning",
+        "desc": "LEGO®️ Education provides hands-on Science, Technology,Engineering, Arts and Mathematics solutions with lessons that are adaptable to students across all ages and abilities."
+      },
+      {
+        "title": "BLOCK/SCRATCH programming",
+        "desc": "Learn how to write BLOCK based and TEXT based programs using LEGO® Education SPIKE™ Essential drag and drop software which provides an intuitive and easy-to-use programming environment."
+      },
+      {
+        "title": "Work with Lego bricks and sensors",
+        "desc": "Kit includes 454 LEGO bricks, wireless sensors and motors which offers endless possibilities, promoting computational thinking, and engineering principles in a fun and engaging way."
+      },
+      {
+        "title": "Creative thinking",
+        "desc": "Hands on learning experience that promotes children’s creative thinking, teamwork, and problem-solving skills.Research from the LEGO® Foundation found that learning through play builds confidence through the development of holistic skills."
+      }
+    ],
+    "list": [
+      {
+        "list": "Intro. Of Kit & Software, Construction Of First Model"
+      },
+      {
+        "list": "Boat Trip"
+      },
+      {
+        "list": "Arctic Ride"
+      },
+      {
+        "list": "Cave Car"
+      },
+      {
+        "list": "Animal Alarm"
+      },
+      {
+        "list": "Underwater Quest"
+      },
+      {
+        "list": "Treehouse Camp"
+      },
+      {
+        "list": "The Great Desert Adventure"
+      },
+      {
+        "list": "The Fast Lane"
+      },
+      {
+        "list": "Classic Carousel"
+      },
+      {
+        "list": "The Perfect Swing"
+      },
+      {
+        "list": "Snack Stand"
+      },
+      {
+        "list": "Twirling Tea Cups"
+      },
+      {
+        "list": "The Spinning Ferris Wheel"
+      },
+      {
+        "list": "The Most Amazing Amusement Park"
+      }
+    ],
+    "benefits": [
+      {
+        "benefits": "Apply engineering design skills at each step of the design process."
+      },
+      { "benefits": "Develop efficient problem-solving and coding skills" },
+      {
+        "benefits": "Design projects that combine hardware and software components to collect and exchange data."
+      },
+      { "benefits": "Work with variables, data arrays and cloud data." },
+      {
+        "benefits": "Apply critical thinking and develop life skills for the careers of tomorrow."
+      }
+    ],
+    "certification": "Certificate will be awarded after successful completion of each level. Student can opt for advance level once they finish their basic level course.",
+    "card": [
+      {
+        "cardTitle": "LEGO® SPIKE™ essential beginner with kit",
+        "includes": "15 online classes",
+        "price": 1750,
+        "prevPayment": "Was INR 1,950",
+        "installmentNow": 437.5,
+        "prevInstallment": "4 monthly payments"
+      },
+      {
+        "cardTitle": "LEGO® SPIKE™ essential beginner with kit",
+        "includes": "15 online classes",
+
+        "price": 1750,
+        "prevPayment": "Was INR 1,950",
+        "installmentNow": 437.5,
+        "prevInstallment": "4 monthly payments"
+      }
+    ]
+  }
+]

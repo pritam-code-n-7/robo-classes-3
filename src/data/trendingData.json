@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "src": "/assets/programming.png",
+    "alt": "trending course",
+    "title": "Nurturing Young Minds: 10 Steps to Guide Your Child for STEM Education",
+    "desc": "In an era defined by technological marvels and scientific breakthroughs, nurturing a passion for STEM (Science, Technology, Engineering, and Mathematics)..."
+  },
+  {
+    "id": 2,
+    "src": "/assets/python.png",
+    "alt": "trending course",
+    "title": "Why to learn python programming language?",
+    "desc": "Python is a versatile and popular  programming language that is widely used in various industries such as  software development, data science, artificial intelligence, and more. "
+  },
+  {
+    "id": 3,
+    "src": "/assets/stem-guide.png",
+    "alt": "trending course",
+    "title": "Programming and robotics for kids. Where to start?",
+    "desc": "Growing up, our minds were corrupted  by all those sci-fi movies that painted a near-distant future of flying  cars, personal robot assistants (Tony Stark’s Jarvis)..."
+  },
+  {
+    "id": 4,
+    "src": "/assets/ict.webp",
+    "alt": "trending course",
+    "title": "How parents can help their kids with their ICT education?",
+    "desc": "As parents, we all spend our time helping kids with their homework.  For many of us, English and Math’s problems seem to more of a breeze as they’re subject’s we learnt throughout our school years as well as being applied to your daily lives."
+  },
+  {
+    "id": 5,
+    "src": "/assets/e-learning.webp",
+    "alt": "trending course",
+    "title": "10 Advantages of having Online classes / E-learning for Kids",
+    "desc": "Online classes that the world popularly known as E-learning have become a buzzword amongst the education industry through the intervention of different digital technologies."
+  },
+  {
+    "id": 6,
+    "src": "/assets/benefits.webp",
+    "alt": "trending course",
+    "title": "LEGO Robotics and benefits for Children",
+    "desc": "Robotics is where computer science and engineering come together to create objects which follow both disciplines. Robotics involves design and construction which involves engineering and operation and how the robot works which involves computer science. Robotics are designed so that they can help and assist humans in difficult tasks."
+  },
+  {
+    "id": 7,
+    "src": "/assets/relevance.webp",
+    "alt": "trending course",
+    "title": "Robotics education and its relevance for kids",
+    "desc": "Robotics is an integral part of STEM. Getting started with robotics helps us in learning electronics and programming languages. STEM robotics has made a respectable amount of space for itself in the curriculum, creatively and otherwise in last few years."
+  },
+  {
+    "id": 8,
+    "src": "/assets/innovating.webp",
+    "alt": "trending course",
+    "title": "Innovating and learning with LEGO® robotics",
+    "desc": "Engaging students in STEM education using LEGO® Education’s robotics kits are beyond paper-and-pen calculation. Instead, it opens doors for students to work like real engineers improving child’s thinking skills and developing practical skills."
+  },
+  {
+    "id": 9,
+    "src": "/assets/spikeprime.webp",
+    "alt": "trending course",
+    "title": "LEGO® Education® SPIKE™ Prime: An Instructor’s perspective",
+    "desc": "LEGO Education® has seen a lot of popularity in recent years. This type of education system motivates students to learn and practice more. They enjoy the practical process; thus, they are eager to learn more. "
+  },
+  {
+    "id": 10,
+    "src": "/assets/scratch-learning.webp",
+    "alt": "trending course",
+    "title": "Scratch programming: the easiest way to enter the coding word",
+    "desc": "For every technology you rely on in your daily life, code is the language that powers it. Programming and coding are now an integral part of everyday life. Cars run on it, computers won’t work without it. "
+  },
+  {
+    "id": 11,
+    "src": "/assets/engineering.webp",
+    "alt": "trending course",
+    "title": "Importance Of Engineering Our Future With STEAM Education",
+    "desc": "Engineering has become an inseparable part of your daily life. The gadgets, vehicles, and some magnificent bridges speak volumes of awe-inspiring engineering. There are other examples of fine engineering that you may see in every aspect of life. "
+  },
+  {
+    "id": 12,
+    "src": "/assets/impact.webp",
+    "alt": "trending course",
+    "title": "Impact of LEGO® ROBOTICS in STEM education",
+    "desc": "The increase in technology is compelling more people to consider critical thinking and  acquire problem solving skills. It is a must to succeed in the career aspirations of the future."
+  },
+
+  {
+    "id": 13,
+    "src": "/assets/blogs.webp",
+    "alt": "trending course",
+    "title": "Women in STEM: Celebrating and Encouraging Female Representation",
+    "desc": "In the vast landscape of science, technology, engineering, and mathematics (STEM), women have consistently contributed groundbreaking discoveries and innovations, proving that gender is no barrier to intellectual prowess. However, the road to equality and representation in STEM has been far from smooth. In this blog,"
+  }
+]

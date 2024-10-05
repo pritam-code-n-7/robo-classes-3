@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "label": "LEGO",
+    "src": "/assets/feature.png ",
+    "course": "LEGO® SPIKE™ essential beginner with kit",
+    "originalPrice": "INR 1,950",
+    "overridenPrice": " - INR 1,750",
+    "emi": "INR 437.5 /Month *4",
+    "age": "4-6 years",
+    "classes": "15 classes"
+  },
+  {
+    "id": 2,
+    "label": "ELECTRONIC ROBOTICS",
+    "src": "/assets/microbit.webp",
+    "course": "Microbit Robotics Classes Beginner Course with Kit",
+    "originalPrice": "INR 1,950",
+    "overridenPrice": " - INR 1,750",
+    "emi": "INR 437.5 /Month *4",
+    "age": "6-9 years",
+    "classes": "15 classes"
+  },
+  {
+    "id": 3,
+    "label": "ELECTRONIC ROBOTICS",
+    "src": "/assets/arduino.webp",
+    "course": " Arduino Robotics Classes Beginner Course",
+    "originalPrice": "INR 1,950",
+    "overridenPrice": " - INR 1,750",
+    "emi": "INR 437.5 /Month *4",
+    "age": "9-13 years",
+    "classes": "15 classes"
+  },
+
+  {
+    "id": 4,
+    "label": "LEGO ROBOTICS",
+    "src": "/assets/robotics-img.webp",
+    "course": " LEGO® SPIKE™ Prime classes beginner with kit",
+    "originalPrice": "INR 2,500",
+    "overridenPrice": " - INR 2,250",
+    "emi": " INR 562.5/Month *4",
+    "age": "9-13 years",
+    "classes": "15 classes"
+  }
+]

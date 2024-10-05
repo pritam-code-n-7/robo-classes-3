@@ -1,0 +1,61 @@
+[{
+    "id": 23,
+    "label": "ELECTRONIC ROBOTICS",
+    "src": "/assets/microbit.webp",
+    "course": "Microbit Robotics Classes Beginner Course with Kit",
+    "originalPrice": "INR 1,950",
+    "overridenPrice": " - INR 1,750",
+    "emi": "INR 437.5 /Month *4",
+    "age": "6-9 years",
+    "classes": "15 classes"
+  },{
+    "id": 24,
+    "label": "ELECTRONIC ROBOTICS",
+    "src": "/assets/arduino.webp",
+    "course": " Arduino Robotics Classes Beginner Course",
+    "originalPrice": "INR 1,950",
+    "overridenPrice": " - INR 1,750",
+    "emi": "INR 437.5 /Month *4",
+    "age": "9-13 years",
+    "classes": "15 classes"
+  }, {
+    "id":25,
+    "label": "CODING COURSE",
+    "src": "/assets/scratch.webp ",
+    "course": "Scratch Programming Beginner Course",
+    "originalPrice": "INR 750",
+    "overridenPrice": " - INR 600",
+    "emi": " INR 150 /Month *4 ",
+    "age": "7+ years",
+    "classes": "15 classes"
+  }, {
+    "id":26,
+    "label": "Programming for kids",
+    "src": "/assets/ai.webp",
+    "course": "Artificial Intelligence With Python Programming",
+    "originalPrice": "INR 1,800",
+    "overridenPrice": " - INR 1,500",
+    "emi": " INR 375 /Month *4 ",
+    "age": "12-18 years",
+    "classes": "30 classes"
+  },{
+    "id":27,
+    "label": "Programming for kids",
+    "src": "/assets/java.webp",
+    "course": "Java Programming Course For Kids",
+    "originalPrice": "INR 5,400",
+    "overridenPrice": " - INR 4,320",
+    "emi": " INR 1080 /Month *4 ",
+    "age": "14-18 years",
+    "classes": "24 classes"
+  },{
+    "id":28,
+    "label": "STEM Classes",
+    "src": "/assets/programming.png",
+    "course": " C++ programming class",
+    "originalPrice": "INR 850",
+    "overridenPrice": " - INR 720",
+    "emi": "  4 Payments of INR 180 /Month ",
+    "age": "4-6 years",
+    "classes": "12 classes"
+  }]

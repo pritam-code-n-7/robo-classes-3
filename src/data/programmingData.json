@@ -1,0 +1,123 @@
+[
+  {
+    "id":5,
+    "label": "CODING COURSE",
+    "src": "/assets/scratch.webp ",
+    "course": "Scratch Programming Beginner Course",
+    "originalPrice": "INR 750",
+    "overridenPrice": " - INR 600",
+    "emi": " INR 150 /Month *4 ",
+    "age": "7+ years",
+    "classes": "15 classes"
+  },
+  {
+    "id":6,
+    "label": "Programming for kids",
+    "src": "/assets/ai.webp",
+    "course": "Artificial Intelligence With Python Programming",
+    "originalPrice": "INR 1,800",
+    "overridenPrice": " - INR 1,500",
+    "emi": " INR 375 /Month *4 ",
+    "age": "12-18 years",
+    "classes": "30 classes"
+  },
+  {
+    "id":7,
+    "label": "Programming for kids",
+    "src": "/assets/app.webp",
+    "course": " MIT APP Inventor Mobile App Development Course",
+    "originalPrice": "INR 2,340",
+    "overridenPrice": " - INR 2,160",
+    "emi": " INR 540 /Month *4 ",
+    "age": "9-13 years",
+    "classes": "36 classes"
+  },
+  {
+    "id":8,
+    "label": "Programming for kids",
+    "src": "/assets/dev.webp",
+    "course": " Andorid Mobile App Development Course",
+    "originalPrice": "INR 2,100",
+    "overridenPrice": " - INR 1,800",
+    "emi": " INR 450 /Month *4 ",
+    "age": "11-18 years",
+    "classes": "45 classes"
+  },
+  {
+    "id":9,
+    "label": "Programming for kids",
+    "src": "/assets/pictoblox.webp",
+    "course": " Artificial Intelligence With PictoBlox Programming",
+    "originalPrice": "INR 1,000",
+    "overridenPrice": " - INR 800",
+    "emi": "  INR 200 /Month *4 ",
+    "age": "9-13 years",
+    "classes": "16 classes"
+  },
+  {
+    "id":10,
+    "label": "Programming for kids",
+    "src": "/assets/creo.webp ",
+    "course": "3d Product Design Course With CREO CAD Software",
+    "originalPrice": "INR 3,000",
+    "overridenPrice": " - INR 2,700",
+    "emi": " INR 675 /Month *4 ",
+    "age": "10+ years",
+    "classes": "60 classes"
+  },
+  {
+    "id":11,
+    "label": "Programming for kids",
+    "src": "/assets/java.webp",
+    "course": "Java Programming Course For Kids",
+    "originalPrice": "INR 5,400",
+    "overridenPrice": " - INR 4,320",
+    "emi": " INR 1080 /Month *4 ",
+    "age": "14-18 years",
+    "classes": "24 classes"
+  },
+  {
+    "id":12,
+    "label": "Programming for kids",
+    "src": "/assets/py.webp",
+    "course": " Python Programming Course Beginner level",
+    "originalPrice": "INR 2,100",
+    "overridenPrice": " - INR 1,800",
+    "emi": " INR 450 /Month *4 ",
+    "age": "10+ years",
+    "classes": "30 classes"
+  },
+  {
+    "id":13,
+    "label": "CODING COURSE",
+    "src": "/assets/3d.webp",
+    "course": " 3d modeling using TinkerCad Beginner",
+    "originalPrice": "INR 1,500",
+    "overridenPrice": " - INR 1,200",
+    "emi": " INR 300 /Month *4 ",
+    "age": "7+ years",
+    "classes": "24 classes"
+  },
+  {
+    "id":14,
+    "label": "Programming for kids",
+    "src": "/assets/py.webp",
+    "course": " Python Programming Course Workshop",
+    "originalPrice": "INR 900",
+    "overridenPrice": " - INR 600",
+    "emi": "  One time payment  ",
+    "age": "10+ years",
+    "classes": "15 classes"
+  },
+  {
+    "id":15,
+    "label": "CODING COURSE",
+    "src": "/assets/scratch.webp ",
+    "course": "Scratch Programming Course Workshop",
+    "originalPrice": "INR 750",
+    "overridenPrice": " - INR 500",
+    "emi": " One time payment ",
+    "age": "7+ years",
+    "classes": "15 classes"
+  }
+]
