@@ -1,8 +1,8 @@
 [
   {
-    "id":16,
+    "id": 16,
     "label": "STEM Classes",
-    "src": "/assets/stemlab.webp ",
+    "src": "/assets/stemlab.webp",
     "course": "Inspire builder STEAM classes with kit",
     "originalPrice": "INR 850",
     "overridenPrice": " - INR 720",
@@ -11,7 +11,7 @@
     "classes": "12 classes"
   },
   {
-    "id":17,
+    "id": 17,
     "label": "LEGO",
     "src": "/assets/cube.webp",
     "course": "Rubik's cube for beginners",
@@ -22,7 +22,7 @@
     "classes": "8 classes"
   },
   {
-    "id":18,
+    "id": 18,
     "label": "STEM Course",
     "src": "/assets/math.webp",
     "course": " Mental mathematics complete course",
@@ -33,7 +33,7 @@
     "classes": "40 classes"
   },
   {
-    "id":19,
+    "id": 19,
     "label": "STEM Course",
     "src": "/assets/chess.webp",
     "course": " Arduino Robotics Classes Beginner Course",
@@ -44,7 +44,7 @@
     "classes": "10 classes"
   },
   {
-    "id":20,
+    "id": 20,
     "label": "STEM Classes",
     "src": "/assets/programming.png",
     "course": " C++ programming class",
@@ -55,7 +55,7 @@
     "classes": "12 classes"
   },
   {
-    "id":21,
+    "id": 21,
     "label": "LEGO",
     "src": "/assets/canva.webp",
     "course": " Canva classes for beginners",
@@ -66,7 +66,7 @@
     "classes": "15 classes"
   },
   {
-    "id":22,
+    "id": 22,
     "label": "CODING COURSE",
     "src": "/assets/html.webp",
     "course": " HTML and CSS for beginners",

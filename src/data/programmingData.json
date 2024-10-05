@@ -1,8 +1,8 @@
 [
   {
-    "id":5,
+    "id": 5,
     "label": "CODING COURSE",
-    "src": "/assets/scratch.webp ",
+    "src": "/assets/scratch.webp",
     "course": "Scratch Programming Beginner Course",
     "originalPrice": "INR 750",
     "overridenPrice": " - INR 600",
@@ -11,7 +11,7 @@
     "classes": "15 classes"
   },
   {
-    "id":6,
+    "id": 6,
     "label": "Programming for kids",
     "src": "/assets/ai.webp",
     "course": "Artificial Intelligence With Python Programming",
@@ -22,7 +22,7 @@
     "classes": "30 classes"
   },
   {
-    "id":7,
+    "id": 7,
     "label": "Programming for kids",
     "src": "/assets/app.webp",
     "course": " MIT APP Inventor Mobile App Development Course",
@@ -33,7 +33,7 @@
     "classes": "36 classes"
   },
   {
-    "id":8,
+    "id": 8,
     "label": "Programming for kids",
     "src": "/assets/dev.webp",
     "course": " Andorid Mobile App Development Course",
@@ -44,7 +44,7 @@
     "classes": "45 classes"
   },
   {
-    "id":9,
+    "id": 9,
     "label": "Programming for kids",
     "src": "/assets/pictoblox.webp",
     "course": " Artificial Intelligence With PictoBlox Programming",
@@ -55,9 +55,9 @@
     "classes": "16 classes"
   },
   {
-    "id":10,
+    "id": 10,
     "label": "Programming for kids",
-    "src": "/assets/creo.webp ",
+    "src": "/assets/creo.webp",
     "course": "3d Product Design Course With CREO CAD Software",
     "originalPrice": "INR 3,000",
     "overridenPrice": " - INR 2,700",
@@ -66,7 +66,7 @@
     "classes": "60 classes"
   },
   {
-    "id":11,
+    "id": 11,
     "label": "Programming for kids",
     "src": "/assets/java.webp",
     "course": "Java Programming Course For Kids",
@@ -77,7 +77,7 @@
     "classes": "24 classes"
   },
   {
-    "id":12,
+    "id": 12,
     "label": "Programming for kids",
     "src": "/assets/py.webp",
     "course": " Python Programming Course Beginner level",
@@ -88,7 +88,7 @@
     "classes": "30 classes"
   },
   {
-    "id":13,
+    "id": 13,
     "label": "CODING COURSE",
     "src": "/assets/3d.webp",
     "course": " 3d modeling using TinkerCad Beginner",
@@ -99,7 +99,7 @@
     "classes": "24 classes"
   },
   {
-    "id":14,
+    "id": 14,
     "label": "Programming for kids",
     "src": "/assets/py.webp",
     "course": " Python Programming Course Workshop",
@@ -110,9 +110,9 @@
     "classes": "15 classes"
   },
   {
-    "id":15,
+    "id": 15,
     "label": "CODING COURSE",
-    "src": "/assets/scratch.webp ",
+    "src": "/assets/scratch.webp",
     "course": "Scratch Programming Course Workshop",
     "originalPrice": "INR 750",
     "overridenPrice": " - INR 500",
