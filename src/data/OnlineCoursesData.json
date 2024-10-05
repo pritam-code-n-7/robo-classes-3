@@ -1,4 +1,5 @@
-[{
+[
+  {
     "id": 23,
     "label": "ELECTRONIC ROBOTICS",
     "src": "/assets/microbit.webp",
@@ -8,7 +9,8 @@
     "emi": "INR 437.5 /Month *4",
     "age": "6-9 years",
     "classes": "15 classes"
-  },{
+  },
+  {
     "id": 24,
     "label": "ELECTRONIC ROBOTICS",
     "src": "/assets/arduino.webp",
@@ -18,18 +20,20 @@
     "emi": "INR 437.5 /Month *4",
     "age": "9-13 years",
     "classes": "15 classes"
-  }, {
-    "id":25,
+  },
+  {
+    "id": 25,
     "label": "CODING COURSE",
-    "src": "/assets/scratch.webp ",
+    "src": "/assets/scratch.webp",
     "course": "Scratch Programming Beginner Course",
     "originalPrice": "INR 750",
     "overridenPrice": " - INR 600",
     "emi": " INR 150 /Month *4 ",
     "age": "7+ years",
     "classes": "15 classes"
-  }, {
-    "id":26,
+  },
+  {
+    "id": 26,
     "label": "Programming for kids",
     "src": "/assets/ai.webp",
     "course": "Artificial Intelligence With Python Programming",
@@ -38,8 +42,9 @@
     "emi": " INR 375 /Month *4 ",
     "age": "12-18 years",
     "classes": "30 classes"
-  },{
-    "id":27,
+  },
+  {
+    "id": 27,
     "label": "Programming for kids",
     "src": "/assets/java.webp",
     "course": "Java Programming Course For Kids",
@@ -48,8 +53,9 @@
     "emi": " INR 1080 /Month *4 ",
     "age": "14-18 years",
     "classes": "24 classes"
-  },{
-    "id":28,
+  },
+  {
+    "id": 28,
     "label": "STEM Classes",
     "src": "/assets/programming.png",
     "course": " C++ programming class",
@@ -58,4 +64,5 @@
     "emi": "  4 Payments of INR 180 /Month ",
     "age": "4-6 years",
     "classes": "12 classes"
-  }]
+  }
+]

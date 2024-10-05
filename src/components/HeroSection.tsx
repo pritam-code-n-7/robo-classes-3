@@ -26,7 +26,7 @@ const HeroSection = () => {
             <p className="text-4xl">Building critical</p>
             <motion.p
               className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-l
-             from-gold via-white to-beige"
+             from-gold via-white to-beige mb-2"
               animate={{ backgroundPositionX: ["0%", "200%"] }}
               transition={{
                 duration: 8,
